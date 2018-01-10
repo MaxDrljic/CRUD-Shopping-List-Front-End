@@ -1,3 +1,9 @@
+A simple Angular CRUD project which adds a shopping list where you can add, delete, and modify things you've added to your shopping list. Also, you need to start CRUD-Shopping-List-Back-End code, so be sure to clone that repo as well.
+
+I suggest you to read through all documentation for better understanding of the commands you can use.
+
+DESCRIPTION :
+
 # CrudAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
